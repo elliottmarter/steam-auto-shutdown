@@ -1,5 +1,12 @@
 # Steam Auto Shutdown
 
+> [!WARNING]
+> **This app was written by AI (Claude) for my own personal use.**
+> It has not been professionally reviewed or audited. You're free to use, copy and modify it,
+> but **entirely at your own risk**. It comes with no warranty and no support, and I accept no
+> responsibility for any data loss, security issues or other problems that result from using it.
+> Released under the [MIT License](LICENSE).
+
 A small Windows app that shuts your PC down when Steam finishes downloading.
 
 ![The Steam Auto Shutdown window](docs/screenshot.png)
